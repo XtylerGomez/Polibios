@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\Polibios.exe
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\Polibios.deps.json
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\Polibios.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\Polibios.dll
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\ref\Polibios.dll
+C:\Users\LENOVO\source\repos\Polibios\Polibios\bin\Debug\net6.0\Polibios.pdb
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.dll
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\ref\Polibios.dll
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.pdb
+C:\Users\LENOVO\source\repos\Polibios\Polibios\obj\Debug\net6.0\Polibios.genruntimeconfig.cache
